@@ -38,9 +38,9 @@
 }
 
 .footer{
-  position: absolute;
+  position: fixed;
   bottom: 0;
-  width: 100%;
+  width: 90%;
   height: 50px;
   background-color: black;
   text-align: center;
